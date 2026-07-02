@@ -1,4 +1,4 @@
-# ProjectParkEast
+# ProjectParkEase.Co
 Project ini di buat untuk memenuhi persyataran ujian mata kuliah web client development 
 Dengan anggota kelompok:
 1. Sholehudin 
