@@ -1,6 +1,0 @@
-{
-  "name": "ParkEase.co",
-  "description": "Platform parkir digital cerdas terdepan di Indonesia untuk pencarian, reservasi, dan pembayaran parkir real-time.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
