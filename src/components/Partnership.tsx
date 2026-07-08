@@ -253,7 +253,7 @@ export default function Partnership({ onPageChange }: PartnershipProps) {
                   {/* Image 3 Mockup */}
                   <div className="card border-0 rounded-4 shadow-sm overflow-hidden" style={{ aspectRatio: "1/1" }}>
                     <img 
-                      src="https://images.unsplash.com/photo-1588362951121-3ee319b018b2?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+                      src="https://images.unsplash.com/photo-1588362951121-3ee319b018b2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGFya2lyJTIwZ2F0ZXxlbnwwfHwwfHx8MA%3D%3D" 
                       alt="Parking Lot Aerial" 
                       className="w-100 h-100"
                       style={{ objectFit: "cover" }}
