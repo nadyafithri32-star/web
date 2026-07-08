@@ -140,7 +140,7 @@ export default function Home({ onPageChange }: HomeProps) {
             </div>
 
             {/* Right Illustration Column */}
-            <div className="col-lg-5 d-flex justify-content-center justify-content-lg-end w-100 max-w-sm mx-auto px-0">
+            <div className="col-lg-5 d-flex justify-content-center justify-content-lg-end px-0">
               <div className="p-1 p-sm-4 bg-white rounded-5 border border-primary border-opacity-10 shadow-lg position-relative overflow-hidden w-100" style={{ maxWidth: "400px", borderRadius: "32px" }}>
                 <div className="position-absolute bg-primary bg-opacity-10 rounded-circle blur-3xl animate-pulse" style={{ width: "300px", height: "300px", top: "-50px", left: "-50px", filter: "blur(40px)" }} />
                 <div className="position-relative">
