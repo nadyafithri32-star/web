@@ -199,7 +199,7 @@ export default function AboutUs() {
         {/* Subtle background decoration */}
         <div className="position-absolute inset-0" style={{ opacity: 0.05, pointerEvents: "none" }}>
           <img
-            src="https://images.unsplash.com/photo-1557804506-669a67965ba0?auto=format&fit=crop&q=80&w=1200"
+            src="https://images.unsplash.com/photo-1588362951121-3ee319b018b2?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             alt="Corporate meeting background"
             referrerPolicy="no-referrer"
             className="w-100 h-100"
@@ -305,7 +305,7 @@ export default function AboutUs() {
               <div className="row g-3 mb-4">
                 <div className="col-sm-6">
                   <AboutUsImageCard
-                    src="https://images.unsplash.com/photo-1506521788701-1e13a4ea2221?auto=format&fit=crop&q=80&w=400"
+                    src="https://images.unsplash.com/photo-1588362951121-3ee319b018b2?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                     alt="Smart Parking Grid"
                     fallbackIcon={Navigation}
                     title="Ekosistem Parkir Cerdas"
@@ -314,10 +314,10 @@ export default function AboutUs() {
 
                 <div className="col-sm-6">
                   <AboutUsImageCard
-                    src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=400"
+                    src="https://plus.unsplash.com/premium_photo-1661764559869-f6052a14b4c9?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                     alt="Customer Support 24/7"
                     fallbackIcon={PhoneCall}
-                    title="Customer Support 24/7"
+                    title="Customer Service Support"
                   />
                 </div>
               </div>
@@ -451,7 +451,7 @@ export default function AboutUs() {
           
           <div className="mb-3 mb-sm-5 mx-auto" style={{ maxWidth: "600px" }}>
             <h3 className="h1 fw-bold text-dark mb-3">
-              Be a part of us, just like they did
+              Lets be part of us
             </h3>
             <p className="text-muted small mb-0">
               Dipercaya oleh ratusan mitra parkir terkemuka di Indonesia, mulai dari mall terpopuler, bandara internasional, pusat perbelanjaan, hingga pusat kebugaran.
