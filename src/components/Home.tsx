@@ -94,7 +94,7 @@ export default function Home({ onPageChange }: HomeProps) {
 
               <h1 className="display-4 fw-bold text-dark mb-3" style={{ lineHeight: 1.15 }}>
                 Make your <span className="text-primary">parking</span>,<br />
-                <span className="text-primary text-decoration-underline" style={{ "8px" }}>simplified</span> with us
+                <span className="text-primary">simplified</span> with us
               </h1>
 
               <p className="lead text-muted mb-4" style={{ maxWidth: "550px" }}>
