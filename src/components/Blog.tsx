@@ -15,7 +15,7 @@ export default function Blog() {
       description: "Teknologi Internet of Things telah merevolusi cara kita mengelola dan menggunakan lahan parkir. Pelajari bagaimana sensor pintar dan data real-time mengoptimalkan ekosistem parkir perkotaan.",
       date: "10 Juni 2025",
       readTime: "5 menit",
-      imageUrl: "https://images.unsplash.com/photo-1506521788701-1e13a4ea2221?auto=format&fit=crop&q=80&w=600",
+      imageUrl: "https://images.unsplash.com/photo-1588362951121-3ee319b018b2?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       featured: true,
     },
     {
