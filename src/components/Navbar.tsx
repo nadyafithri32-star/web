@@ -155,7 +155,7 @@ export default function Navbar({ currentPage, onPageChange }: NavbarProps) {
               style={{ borderRadius: "12px" }}
             >
               <Sparkles size={14} />
-              <span>Coba Sekarang</span>
+              <span>Gabung Sekarang</span>
             </button>
           </div>
         </div>
