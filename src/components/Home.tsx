@@ -94,7 +94,7 @@ export default function Home({ onPageChange }: HomeProps) {
 
               <h1 className="display-4 fw-bold text-dark mb-3" style={{ lineHeight: 1.15 }}>
                 Make your <span className="text-primary">parking</span>,<br />
-                <span className="text-primary text-decoration-underline" style={{ textUnderlineOffset: "8px" }}>simplified</span> with us
+                <span className="text-primary text-decoration-underline" style={{ "8px" }}>simplified</span> with us
               </h1>
 
               <p className="lead text-muted mb-4" style={{ maxWidth: "550px" }}>
@@ -268,7 +268,7 @@ export default function Home({ onPageChange }: HomeProps) {
             <div className="col-lg-5">
               <div className="card border-0 shadow-lg overflow-hidden" style={{ borderRadius: "24px" }}>
                 <img 
-                  src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&q=80&w=600" 
+                  src="https://plus.unsplash.com/premium_photo-1690958385472-b8e011570ceb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8a2VtYWNldGFuJTIwa290YXxlbnwwfHwwfHx8MA%3D%3D" 
                   alt="Happy People Smiling" 
                   referrerPolicy="no-referrer"
                   className="img-fluid w-100"
@@ -289,7 +289,7 @@ export default function Home({ onPageChange }: HomeProps) {
             <div className="col-lg-5 order-last order-lg-first">
               <div className="card border-0 shadow-lg overflow-hidden" style={{ borderRadius: "24px" }}>
                 <img 
-                  src="https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?auto=format&fit=crop&q=80&w=600" 
+                  src="https://images.unsplash.com/photo-1780733063331-e0ef4917ca4c?q=80&w=871&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
                   alt="Driver Dashboard Navigator" 
                   referrerPolicy="no-referrer"
                   className="img-fluid"
